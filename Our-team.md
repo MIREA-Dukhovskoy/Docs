@@ -1,7 +1,7 @@
-   ---
-   layout: default
-   title: Главная
-   ---
+---
+layout: default
+title: Главная
+---
 
 # Знакомство с командой
 - [ ] Григорий
